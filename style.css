@@ -1,0 +1,38 @@
+p {
+    color: blue;
+}
+
+#header {
+    color: red;
+}
+
+.button {
+    color: green;
+}
+
+.primary.warning {
+    color: orange;
+}
+
+div span {
+    color: purple;
+}
+.element1 {
+    color: yellow;
+}
+
+#element2 {
+    color: teal;
+}
+
+.element3 {
+    color: magenta;
+}
+
+.primary.highlight {
+    color: aqua;
+}
+
+div .element5 {
+    color: brown;
+}
